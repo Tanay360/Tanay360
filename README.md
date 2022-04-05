@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- I'm Tanay Gupta
-- I develop Android Applications and websites. Currently I am contributing to open source. 
+- I'm Tanay Gupta 
 <!--
 **Tanay360/Tanay360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
